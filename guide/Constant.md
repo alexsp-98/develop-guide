@@ -359,7 +359,7 @@ for (int i = 0; i < list.size(); i++){
 ```
 正例
 ```java
-for (int i = 0, int length = list.size; i < length; i++){
+for (int i = 0, int length = list.size(); i < length; i++){
 
 }
 ```

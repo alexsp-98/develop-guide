@@ -16,3 +16,8 @@
 ## [线程](/guide/Thread.md)
 ## [数据库](/guide/Database.md)
 ## [其他](/guide/Other.md)
+
+## 参考文档
+* [Java编码技巧之高效代码50例](https://developer.aliyun.com/article/739987)
+* [Java日常开发的21个坑，你踩过几个？](https://www.21ic.com/article/884367.html)
+* [工作四年，分享50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
